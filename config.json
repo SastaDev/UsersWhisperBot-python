@@ -1,0 +1,8 @@
+{
+    "API_ID": ,
+    "API_HASH": "",
+    "BOT_TOKEN": "",
+    "MONGODB_URI": "",
+    "DEFAULT_LANGS": ["en"],
+    "PERMITTED_IDS": []
+}
